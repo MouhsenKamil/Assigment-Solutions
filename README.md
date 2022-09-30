@@ -1,2 +1,2 @@
 # Assigment Solutions
-This repository consists of solutions for the exercises provided by **Harrison Infotech**
+This repository contains Solutions for the exercises provided by **Harrison Infotech**
